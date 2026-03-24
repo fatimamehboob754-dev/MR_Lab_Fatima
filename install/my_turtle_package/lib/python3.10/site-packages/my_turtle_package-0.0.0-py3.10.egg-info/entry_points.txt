@@ -1,8 +1,0 @@
-[console_scripts]
-move_circle = my_turtle_package.move_circle:main
-move_to_point = my_turtle_package.move_to_point:main
-move_triangular = my_turtle_package.move_triangular:main
-move_turtle = my_turtle_package.move_turtle:main
-my_node = my_turtle_package.my_node:main
-three_turtle = my_turtle_package.three_turtle:main
-
